@@ -1,10 +1,3 @@
-CodeReview
-==========
-
-日常项目codereview集合。
-
-每个项目单独创建一个目录，将需要Review的代码文件放入，文件类型请修改为`.js`结尾。
-
 ###CodeReview操作步骤
 
  1. 点击Github的Commits Tab；
@@ -12,3 +5,8 @@ CodeReview
  3. 点击记录最右侧的版本按钮；
  4. 在新的代码页面中，就可以开始CodeReview了；
  5. 如果发现问题点击行号之前的+号就可以添加说明；
+
+###创建CodeReview
+
+ 1. 在当前repository中创建一个目录，目录名称用于描述项目；
+ 2. 将需要Review的代码放入目录中，注意将代码文件后缀修改为`.js`结尾；
